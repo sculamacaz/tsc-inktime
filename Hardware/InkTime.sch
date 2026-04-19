@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,12 +53,12 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -76,7 +76,7 @@
 <libraries>
 <library name="InkTime_v5" urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew">
 <packages>
-<package name="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N_PINCLEAN" library_version="8">
+<package name="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N_PINCLEAN2" library_version="32">
 <smd name="P$74" x="0" y="0" dx="4.85" dy="4.85" layer="1"/>
 <smd name="P$M2" x="-2.75" y="0" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$K2" x="-2.75" y="0.5" dx="0.2" dy="0.2" layer="1" roundness="100"/>
@@ -109,7 +109,6 @@
 <smd name="P$AC21" x="2" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$AC19" x="1.5" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$AC17" x="1" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
-<smd name="P$AC15" x="0.5" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$AC13" x="0" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$AC11" x="-0.5" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
 <smd name="P$AC9" x="-1" y="-2.75" dx="0.2" dy="0.2" layer="1" roundness="100"/>
@@ -2130,7 +2129,7 @@ XTAL SMD 3.2 x 1.5 mm</description>
 </package>
 </packages>
 <symbols>
-<symbol name="NORDIC_NRF_4_NRF52840_QF_PINCLEAN" library_version="2">
+<symbol name="NORDIC_NRF_4_NRF52840_QF_PINCLEAN2" library_version="32">
 <description>Multi-protocol Bluetooth Low Energy, IEEE 802.15.4, ANT and 2.4GHz proprietary system-on-chip</description>
 <pin name="DEC1@C1" x="-5.08" y="55.88" length="middle" direction="pwr"/>
 <pin name="P0.00/XL1@D2" x="-5.08" y="53.34" length="middle"/>
@@ -2151,7 +2150,6 @@ XTAL SMD 3.2 x 1.5 mm</description>
 <pin name="P0.16@AC11" x="27.94" y="-5.08" length="middle" rot="R90"/>
 <pin name="P0.17@AD12" x="30.48" y="-5.08" length="middle" rot="R90"/>
 <pin name="P0.18/RESET@AC13" x="33.02" y="-5.08" length="middle" rot="R90"/>
-<pin name="P0.19@AC15" x="38.1" y="-5.08" length="middle" rot="R90"/>
 <pin name="P0.20@AD16" x="40.64" y="-5.08" length="middle" rot="R90"/>
 <pin name="P0.21@AC17" x="43.18" y="-5.08" length="middle" rot="R90"/>
 <pin name="SWDCLK@AA24" x="73.66" y="15.24" length="middle" direction="in" rot="R180"/>
@@ -2636,7 +2634,7 @@ Switches electrical signals</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="NORDIC_NRF_4_NRF52840_QF_PINCLEAN" library_version="28">
+<deviceset name="NORDIC_NRF_4_NRF52840_QF_PINCLEAN2" library_version="32">
 <description>&lt;h2&gt;nRF52840&lt;/h2&gt;&lt;p&gt;
 
  &lt;h3&gt;Features&lt;/h3&gt;
@@ -2723,10 +2721,10 @@ Switches electrical signals</description>
 
 &lt;/ul&gt;</description>
 <gates>
-<gate name="G$1" symbol="NORDIC_NRF_4_NRF52840_QF_PINCLEAN" x="-35.56" y="-35.56"/>
+<gate name="G$1" symbol="NORDIC_NRF_4_NRF52840_QF_PINCLEAN2" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N_PINCLEAN">
+<device name="" package="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N_PINCLEAN2">
 <connects>
 <connect gate="G$1" pin="ANT@H23" pad="P$H23"/>
 <connect gate="G$1" pin="D+@AD6" pad="P$AD6"/>
@@ -2758,7 +2756,6 @@ Switches electrical signals</description>
 <connect gate="G$1" pin="P0.16@AC11" pad="P$AC11"/>
 <connect gate="G$1" pin="P0.17@AD12" pad="P$AD12"/>
 <connect gate="G$1" pin="P0.18/RESET@AC13" pad="P$AC13"/>
-<connect gate="G$1" pin="P0.19@AC15" pad="P$AC15"/>
 <connect gate="G$1" pin="P0.20@AD16" pad="P$AD16"/>
 <connect gate="G$1" pin="P0.21@AC17" pad="P$AC17"/>
 <connect gate="G$1" pin="P0.22@AD18" pad="P$AD18"/>
@@ -2807,7 +2804,7 @@ Switches electrical signals</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_2_INDUCTOR" uservalue="yes" library_version="28">
+<deviceset name="NORDIC_NRF_2_INDUCTOR" uservalue="yes" library_version="32">
 <description>&lt;b&gt;Generic chip inductor&lt;/b&gt;</description>
 <gates>
 <gate name="L$1" symbol="NORDIC_NRF_2_L-US" x="0" y="0"/>
@@ -2923,7 +2920,7 @@ Switches electrical signals</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="28">
+<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="32">
 <description>&lt;b&gt;Generic chip capacitor&lt;/b&gt;</description>
 <gates>
 <gate name="C$1" symbol="NORDIC_NRF_3_C-EU" x="0" y="0"/>
@@ -3039,7 +3036,7 @@ Switches electrical signals</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="POWER_SYMBOLS_GND-BAR" prefix="SUPPLY" uservalue="yes" library_version="28">
+<deviceset name="POWER_SYMBOLS_GND-BAR" prefix="SUPPLY" uservalue="yes" library_version="32">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt; - Ground (GND) Bar</description>
 <gates>
 <gate name="G$1" symbol="POWER_SYMBOLS_GND-BAR" x="0" y="0"/>
@@ -3055,7 +3052,7 @@ Switches electrical signals</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_XTAL_32MHZ" uservalue="yes" library_version="28">
+<deviceset name="NORDIC_NRF_XTAL_32MHZ" uservalue="yes" library_version="32">
 <gates>
 <gate name="X$1" symbol="NORDIC_NRF_XTAL_GND" x="0" y="0"/>
 </gates>
@@ -3073,7 +3070,7 @@ Switches electrical signals</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="2450AT18B100E_2450AT18B100E" prefix="ANT" library_version="28">
+<deviceset name="2450AT18B100E_2450AT18B100E" prefix="ANT" library_version="32">
 <description>&lt;b&gt;Antennas 2.45GHz ANTENNA&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.johansontechnology.com/datasheets/2450AT18B100/2450AT18B100.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3100,7 +3097,7 @@ Source: &lt;a href="https://www.johansontechnology.com/datasheets/2450AT18B100/2
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_1_XTAL_32KHZ" uservalue="yes" library_version="28">
+<deviceset name="NORDIC_NRF_1_XTAL_32KHZ" uservalue="yes" library_version="32">
 <gates>
 <gate name="X$1" symbol="NORDIC_NRF_1_XTAL" x="0" y="0"/>
 </gates>
@@ -3116,7 +3113,7 @@ Source: &lt;a href="https://www.johansontechnology.com/datasheets/2450AT18B100/2
 </device>
 </devices>
 </deviceset>
-<deviceset name="BQ25180YBGR_BQ25180YBGR" prefix="IC" library_version="28">
+<deviceset name="BQ25180YBGR_BQ25180YBGR" prefix="IC" library_version="32">
 <description>&lt;b&gt;Charger IC Lithium Ion/Polymer, Lithium Iron Phosphate 8-DSBGA (1.6x1.1)&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.ti.com/lit/ds/symlink/bq25180.pdf?ts=1650264094470&amp;ref_url=https%3A%2F%2Fwww.ti.com%2Fproduct%2FBQ25180"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3149,7 +3146,7 @@ Source: &lt;a href="https://www.ti.com/lit/ds/symlink/bq25180.pdf?ts=16502640944
 </device>
 </devices>
 </deviceset>
-<deviceset name="CPF0201D7K68C1_CPF0201D7K68C1" prefix="R" library_version="28">
+<deviceset name="CPF0201D7K68C1_CPF0201D7K68C1" prefix="R" library_version="32">
 <description>&lt;b&gt;7.68k 0201 Thin Film Surface Mount Fixed Resistor +/-0.5% 0.031W CPF0201D7K68C1&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Data Sheet1773200-1ApdfEnglishENG_DS_1773200-1_A.pdf4-2176215-6"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3167,7 +3164,7 @@ Source: &lt;a href="http://www.te.com/commerce/DocumentDelivery/DDEController?Ac
 </device>
 </devices>
 </deviceset>
-<deviceset name="RT6160AWSC_RT6160AWSC" prefix="IC" library_version="28">
+<deviceset name="RT6160AWSC_RT6160AWSC" prefix="IC" library_version="32">
 <description>&lt;b&gt;Buck-Boost Regulator Positive Output Step-Up/Step-Down I2C DC-DC Controller IC 15-WL-CSP (BSC) (1.4x2.3)&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.richtek.com/SaveDownload.aspx?specid=RT6160A"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3207,7 +3204,7 @@ Source: &lt;a href="https://www.richtek.com/SaveDownload.aspx?specid=RT6160A"&gt
 </device>
 </devices>
 </deviceset>
-<deviceset name="MLP2016SR47MT0S1_FTC252012SR47MBCA" prefix="L" library_version="28">
+<deviceset name="MLP2016SR47MT0S1_FTC252012SR47MBCA" prefix="L" library_version="32">
 <description>&lt;b&gt;SMD / SMT Inductors (Coils), L=0.47?H, L x W x T :&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_mlp2016_en.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3234,7 +3231,7 @@ Source: &lt;a href="https://product.tdk.com/system/files/dam/doc/product/inducto
 </device>
 </devices>
 </deviceset>
-<deviceset name="HECTOR_WATCH_1_TP" prefix="TP" library_version="28">
+<deviceset name="HECTOR_WATCH_1_TP" prefix="TP" library_version="32">
 <description>&lt;b&gt;Test pad&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="HECTOR_WATCH_1_TP" x="0" y="0"/>
@@ -3253,7 +3250,7 @@ Source: &lt;a href="https://product.tdk.com/system/files/dam/doc/product/inducto
 </device>
 </devices>
 </deviceset>
-<deviceset name="BMA421_BMA421" prefix="IC" library_version="28">
+<deviceset name="BMA421_BMA421" prefix="IC" library_version="32">
 <description>&lt;b&gt;Accelerometers Triaxial low-g 12bit Acceleration Sensor&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.mouser.com/datasheet/2/783/BST-BMA423-DS000-1509600.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3290,7 +3287,7 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/783/BST-BMA423-DS000-1509
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC2030-IDC_TC2030-IDC" prefix="J" library_version="28">
+<deviceset name="TC2030-IDC_TC2030-IDC" prefix="J" library_version="32">
 <description>&lt;b&gt;CABLE ADAPTER 6 POS&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/62bc384e093448baaaa63dbd0b9d8707.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3321,7 +3318,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_2_744043680" prefix="L" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_2_744043680" prefix="L" library_version="32">
 <gates>
 <gate name="A" symbol="ESP32_C6_LIBRARY_2_IND" x="0" y="0" swaplevel="1"/>
 </gates>
@@ -3341,7 +3338,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_5_MBR0530" prefix="D" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_5_MBR0530" prefix="D" library_version="32">
 <description>&lt;b&gt;ON SEMICONDUCTOR - MBR0530 - DIODE, SCHOTTKY, 0.5A, 30V, SOD-123&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/MBR0530/ON%20Semiconductor/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -3369,7 +3366,7 @@ Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Da
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" prefix="Q" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" prefix="Q" library_version="32">
 <description>&lt;b&gt;MOSFET N-Ch 30V 1.5A TrenchFET SC70 Vishay Si1308EDL-T1-GE3 N-channel MOSFET Transistor, 1.5 A, 30 V, 3-Pin SC-70&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-GE3.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/SI1308EDL-T1-GE3/Vishay%20Siliconix/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -3398,7 +3395,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_7_JUMPER_SJ" prefix="SJ" uservalue="yes" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_7_JUMPER_SJ" prefix="SJ" uservalue="yes" library_version="32">
 <description>SMD solder &lt;b&gt;JUMPER&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="ESP32_C6_LIBRARY_7_JUMPER_SJ" x="0" y="0"/>
@@ -3417,7 +3414,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" prefix="Q" library_version="32">
 <description>&lt;h3&gt;P-channel MOSFETs&lt;/h3&gt;
 &lt;p&gt;Voltage controlled devices that allow control of high current outputs.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
@@ -3483,7 +3480,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="503480-2400_503480-2400" prefix="J" library_version="28">
+<deviceset name="503480-2400_503480-2400" prefix="J" library_version="32">
 <description>&lt;b&gt;FFC &amp; FPC Connectors 0.5mm FPC RA SMT Dual Contact 24Ckt&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3532,7 +3529,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_MAX17048G+T10" prefix="U" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_MAX17048G+T10" prefix="U" library_version="32">
 <description> &lt;a href="https://pricing.snapeda.com/parts/MAX17048G%2BT10/Analog%20Devices/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32_C6_LIBRARY_MAX17048G+T10" x="0" y="0"/>
@@ -3566,7 +3563,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="DRV2605YZFR_DRV2605YZFR" prefix="IC" library_version="28">
+<deviceset name="DRV2605YZFR_DRV2605YZFR" prefix="IC" library_version="32">
 <description>&lt;b&gt;Haptic Driver for ERM/LRA with Built-In Library and Smart Loop Architecture&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3598,7 +3595,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </device>
 </devices>
 </deviceset>
-<deviceset name="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" prefix="SW" library_version="28">
+<deviceset name="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" prefix="SW" library_version="32">
 <gates>
 <gate name="A" symbol="2025-10-22_07-23-44_LIBRARY_SW2" x="0" y="0"/>
 </gates>
@@ -3621,7 +3618,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </device>
 </devices>
 </deviceset>
-<deviceset name="KH-TYPE-C-16P_KH-TYPE-C-16P" prefix="J" library_version="28">
+<deviceset name="KH-TYPE-C-16P_KH-TYPE-C-16P" prefix="J" library_version="32">
 <description> &lt;a href="https://pricing.snapeda.com/parts/KH-TYPE-C-16P/kinghelm/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="KH-TYPE-C-16P_KH-TYPE-C-16P" x="0" y="0"/>
@@ -3656,7 +3653,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" prefix="D" library_version="28">
+<deviceset name="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" prefix="D" library_version="32">
 <description>&lt;b&gt;Low Cap. ESD Protection Auto SOT-23-6 STMicroelectronics USBLC6-2SC6Y, Dual Uni-Directional TVS Diode Array, 6-Pin SOT-23&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -3687,7 +3684,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </device>
 </devices>
 </deviceset>
-<deviceset name="FRAMES_A3L-LOC" prefix="FRAME" uservalue="yes" library_version="28">
+<deviceset name="FRAMES_A3L-LOC" prefix="FRAME" uservalue="yes" library_version="32">
 <description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
 DIN A3, landscape with location and doc. field</description>
 <gates>
@@ -3717,7 +3714,7 @@ DIN A3, landscape with location and doc. field</description>
 </class>
 </classes>
 <parts>
-<part name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew" deviceset="NORDIC_NRF_4_NRF52840_QF_PINCLEAN" device="" value="NRF52840_QF"/>
+<part name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew" deviceset="NORDIC_NRF_4_NRF52840_QF_PINCLEAN2" device="" value="NRF52840_QF"/>
 <part name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0603_N" value="10uH"/>
 <part name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_N" value="15nH"/>
 <part name="C16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.8BTbcW1WSFWj7_HBs_dgew" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_N" value="47nF"/>
@@ -4250,9 +4247,9 @@ DIN A3, landscape with location and doc. field</description>
 <junction x="20.32" y="160.02"/>
 <wire x1="10.16" y1="134.62" x2="10.16" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="10.16" y1="160.02" x2="20.32" y2="160.02" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="VSS@B7"/>
 <pinref part="C16" gate="C$1" pin="2"/>
 <pinref part="C15" gate="C$1" pin="2"/>
+<pinref part="U1" gate="G$1" pin="VSS@B7"/>
 </segment>
 <segment>
 <wire x1="63.5" y1="109.22" x2="109.22" y2="109.22" width="0.1524" layer="91"/>
@@ -4261,8 +4258,8 @@ DIN A3, landscape with location and doc. field</description>
 <pinref part="SUPPLY3" gate="G$1" pin="GND"/>
 <wire x1="114.3" y1="96.52" x2="114.3" y2="91.44" width="0.1524" layer="91"/>
 <junction x="114.3" y="91.44"/>
-<pinref part="U1" gate="G$1" pin="VSS_PA@F23"/>
 <pinref part="C3" gate="C$1" pin="2"/>
+<pinref part="U1" gate="G$1" pin="VSS_PA@F23"/>
 </segment>
 <segment>
 <wire x1="134.62" y1="96.52" x2="134.62" y2="91.44" width="0.1524" layer="91"/>
@@ -4472,12 +4469,12 @@ DIN A3, landscape with location and doc. field</description>
 <junction x="99.06" y="139.7"/>
 <label x="22.86" y="172.72" size="1.778" layer="95"/>
 <label x="88.9" y="139.7" size="1.778" layer="95"/>
-<pinref part="U1" gate="G$1" pin="DEC6@E24"/>
-<pinref part="U1" gate="G$1" pin="DEC4@B5"/>
 <pinref part="C16" gate="C$1" pin="1"/>
 <pinref part="C15" gate="C$1" pin="1"/>
 <pinref part="C10" gate="C$1" pin="1"/>
 <pinref part="L3" gate="L$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC6@E24"/>
+<pinref part="U1" gate="G$1" pin="DEC4@B5"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -4486,9 +4483,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="114.3" y1="106.68" x2="116.84" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="114.3" y1="104.14" x2="114.3" y2="106.68" width="0.1524" layer="91"/>
 <junction x="114.3" y="106.68"/>
-<pinref part="U1" gate="G$1" pin="ANT@H23"/>
 <pinref part="C3" gate="C$1" pin="1"/>
 <pinref part="L1" gate="L$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="ANT@H23"/>
 </segment>
 </net>
 <net name="RF" class="0">
@@ -4514,16 +4511,16 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="81.28" y1="139.7" x2="81.28" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="81.28" y1="114.3" x2="63.5" y2="114.3" width="0.1524" layer="91"/>
 <label x="71.12" y="139.7" size="1.778" layer="95"/>
-<pinref part="U1" gate="G$1" pin="DEC3@D23"/>
 <pinref part="C11" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC3@D23"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
 <wire x1="2.54" y1="142.24" x2="5.08" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="5.08" y1="142.24" x2="5.08" y2="134.62" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="DCC@B3"/>
 <pinref part="L2" gate="L$1" pin="2"/>
+<pinref part="U1" gate="G$1" pin="DCC@B3"/>
 </segment>
 </net>
 <net name="XC2" class="0">
@@ -4535,9 +4532,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="106.68" y1="119.38" x2="63.5" y2="119.38" width="0.1524" layer="91"/>
 <junction x="119.38" y="139.7"/>
 <label x="119.38" y="139.7" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="XC2@A23"/>
 <pinref part="C2" gate="C$1" pin="1"/>
 <pinref part="X1" gate="X$1" pin="3"/>
+<pinref part="U1" gate="G$1" pin="XC2@A23"/>
 </segment>
 </net>
 <net name="XC1" class="0">
@@ -4547,17 +4544,17 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="119.38" y1="116.84" x2="127" y2="116.84" width="0.1524" layer="91"/>
 <junction x="119.38" y="116.84"/>
 <label x="119.38" y="116.84" size="1.27" layer="95" rot="R270" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="XC1@B24"/>
 <pinref part="C1" gate="C$1" pin="1"/>
 <pinref part="X1" gate="X$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="XC1@B24"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <wire x1="63.5" y1="99.06" x2="91.44" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="99.06" x2="91.44" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="DEC5@N24"/>
 <pinref part="C9" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC5@N24"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -4566,9 +4563,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-45.72" y1="114.3" x2="-45.72" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="-45.72" y1="114.3" x2="-15.24" y2="114.3" width="0.1524" layer="91"/>
 <junction x="-45.72" y="114.3"/>
-<pinref part="U1" gate="G$1" pin="P0.00/XL1@D2"/>
 <pinref part="X2" gate="X$1" pin="2"/>
 <pinref part="C17" gate="C$1" pin="2"/>
+<pinref part="U1" gate="G$1" pin="P0.00/XL1@D2"/>
 </segment>
 </net>
 <net name="N$12" class="0">
@@ -4577,8 +4574,8 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-27.94" y1="116.84" x2="-27.94" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="-27.94" y1="147.32" x2="-40.64" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="-40.64" y1="147.32" x2="-40.64" y2="144.78" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="DEC1@C1"/>
 <pinref part="C5" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC1@C1"/>
 </segment>
 </net>
 <net name="3V3" class="1">
@@ -4592,9 +4589,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-50.8" y1="81.28" x2="-55.88" y2="81.28" width="0.1524" layer="91"/>
 <junction x="-50.8" y="81.28"/>
 <label x="-55.88" y="81.28" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="C6" gate="C$1" pin="1"/>
 <pinref part="U1" gate="G$1" pin="VDD@W1"/>
 <pinref part="U1" gate="G$1" pin="VDDH@Y2"/>
-<pinref part="C6" gate="C$1" pin="1"/>
 </segment>
 <segment>
 <wire x1="10.16" y1="33.02" x2="25.4" y2="33.02" width="0.1524" layer="91"/>
@@ -4602,16 +4599,16 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="10.16" y1="33.02" x2="2.54" y2="33.02" width="0.1524" layer="91"/>
 <label x="2.54" y="33.02" size="1.27" layer="95" rot="R180" xref="yes"/>
 <junction x="10.16" y="33.02"/>
-<pinref part="U1" gate="G$1" pin="VDD@AD14"/>
 <pinref part="C7" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="VDD@AD14"/>
 </segment>
 <segment>
 <wire x1="63.5" y1="73.66" x2="91.44" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="73.66" x2="106.68" y2="73.66" width="0.1524" layer="91"/>
 <label x="106.68" y="73.66" size="1.27" layer="95" xref="yes"/>
 <junction x="91.44" y="73.66"/>
-<pinref part="U1" gate="G$1" pin="VDD@AD23"/>
 <pinref part="C8" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="VDD@AD23"/>
 </segment>
 <segment>
 <wire x1="-22.86" y1="144.78" x2="-22.86" y2="147.32" width="0.1524" layer="91"/>
@@ -4621,8 +4618,8 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-22.86" y1="147.32" x2="-22.86" y2="152.4" width="0.1524" layer="91"/>
 <junction x="-22.86" y="147.32"/>
 <label x="-22.86" y="152.4" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="VDD@B1"/>
 <pinref part="C14" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="VDD@B1"/>
 </segment>
 <segment>
 <wire x1="45.72" y1="134.62" x2="45.72" y2="152.4" width="0.1524" layer="91"/>
@@ -4631,8 +4628,8 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="55.88" y1="152.4" x2="60.96" y2="152.4" width="0.1524" layer="91"/>
 <junction x="55.88" y="152.4"/>
 <label x="60.96" y="152.4" size="1.27" layer="95" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="VDD@A22"/>
 <pinref part="C12" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="VDD@A22"/>
 </segment>
 <segment>
 <wire x1="-78.74" y1="-5.08" x2="-78.74" y2="-7.62" width="0.1524" layer="91"/>
@@ -4697,8 +4694,8 @@ DIN A3, landscape with location and doc. field</description>
 <segment>
 <wire x1="-25.4" y1="71.12" x2="-25.4" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="-25.4" y1="73.66" x2="-15.24" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="DEC3V3@AC5"/>
 <pinref part="C20" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC3V3@AC5"/>
 </segment>
 </net>
 <net name="VBUS" class="1">
@@ -4708,8 +4705,8 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-25.4" y1="48.26" x2="-30.48" y2="48.26" width="0.1524" layer="91"/>
 <junction x="-25.4" y="48.26"/>
 <label x="-30.48" y="48.26" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="VBUS@AD2"/>
 <pinref part="C21" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="VBUS@AD2"/>
 </segment>
 <segment>
 <wire x1="-152.4" y1="157.48" x2="-152.4" y2="167.64" width="0.1524" layer="91"/>
@@ -5009,11 +5006,6 @@ DIN A3, landscape with location and doc. field</description>
 <label x="-132.08" y="81.28" size="1.27" layer="95" xref="yes"/>
 <pinref part="J2" gate="G$1" pin="6"/>
 </segment>
-<segment>
-<wire x1="27.94" y1="55.88" x2="27.94" y2="50.8" width="0.1524" layer="91"/>
-<label x="27.94" y="50.8" size="1.27" layer="95" rot="R270" xref="yes"/>
-<pinref part="U1" gate="G$1" pin="P0.19@AC15"/>
-</segment>
 </net>
 <net name="P0.20" class="0">
 <segment>
@@ -5129,8 +5121,8 @@ DIN A3, landscape with location and doc. field</description>
 <segment>
 <wire x1="38.1" y1="134.62" x2="38.1" y2="170.18" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="170.18" x2="53.34" y2="170.18" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="DEC2@A18"/>
 <pinref part="C13" gate="C$1" pin="1"/>
+<pinref part="U1" gate="G$1" pin="DEC2@A18"/>
 </segment>
 </net>
 <net name="P1.11" class="0">
@@ -5260,9 +5252,9 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="-40.64" y1="111.76" x2="-40.64" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="-40.64" y1="101.6" x2="-45.72" y2="101.6" width="0.1524" layer="91"/>
 <junction x="-45.72" y="101.6"/>
-<pinref part="U1" gate="G$1" pin="P0.01/XL2@F2"/>
 <pinref part="X2" gate="X$1" pin="1"/>
 <pinref part="C18" gate="C$1" pin="2"/>
+<pinref part="U1" gate="G$1" pin="P0.01/XL2@F2"/>
 </segment>
 </net>
 </nets>
